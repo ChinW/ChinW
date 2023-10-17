@@ -1,12 +1,10 @@
-### Hi there 👋, I am Aaron Chi
-
-I consider myself as computer fan, I love computer based art. I (am) ...
+Hi there, this is Aaron, I am
 
 - A software engineer in finanical institution
 - Co-founder of the podcast [从零道一 (0011 Podcast)](https://0011.one)
-- Tried to run a start-up in college, in that period I founded [TECH5 (Software Outsource Studio)](https://techf5ve.com)
-- A sort of digital nomad - I am floating in Hong Kong and Shenzhen, no fixed residence (I live in hotels).
-- Enjoy the fun of computer, right now I am enjoying Golang, Typescript, Rust.
+- When in college, founded [TECH5](https://techf5ve.com), a software outsource studio
+- Floating in Hong Kong and Shenzhen, live in hotels.
+- Enjoy the fun of computer, I am doing Rust, Golang, Typescript in the past years.
 
 Ping me in [email](mailto:contractswif@hotmail.com).
 
